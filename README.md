@@ -1,6 +1,6 @@
 # haxcilent
-A Crawler for hax/woiden run by GO /n
-在使用前请遍历一次文件并填对所有参数否则无法运行
+A Crawler for hax/woiden run by GO 
+-在使用前请遍历一次文件并填对所有参数否则无法运行
 必填参数：
 两个网址
 telegrambot token
