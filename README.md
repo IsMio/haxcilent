@@ -1,9 +1,9 @@
 # haxcilent
 A Crawler for hax/woiden run by GO 
 
--在使用前请遍历一次文件并填对所有参数否则无法运行
+- 在使用前请遍历一次文件并填对所有参数否则无法运行
 
-##必填参数
+## 必填参数
   
   两个网址
   
@@ -11,8 +11,8 @@ A Crawler for hax/woiden run by GO
   
   chat id
 
-##TO USE
--在使用前请遍历一次文件并填对所有参数否则无法运行
+## TO USE
+- 在使用前请遍历一次文件并填对所有参数否则无法运行
 Debian/Ubuntu
 ```
 apt install git golang -y && git clone https://github.com/IsMio/haxcilent.git && cd haxclient
