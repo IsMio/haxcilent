@@ -35,6 +35,6 @@ chmod +x main
 - [ ] config配置文件
 - [ ] 三网站合1
 - [x] vps.vc support 
- ~~- [x] 优化了屎山（bushi~~
+- [x] ~~优化了屎山（bushi~~
 
 欢迎大神来完善与pr
