@@ -34,6 +34,8 @@ chmod +x main
 ## TODO
 - [ ] config配置文件
 - [ ] 三网站合1
+- [ ] Docker support
+- [ ] Linux shell
 - [x] vps.vc support 
 - [x] ~~优化了屎山（bushi~~
 
