@@ -48,8 +48,6 @@ chmod +x main
 请检查你的host是否正确填入以及cookie是否过期
 
 ## TODO
-- [ ] Docker support
-- [ ] Linux shell
 - [x] 三网站合1
 - [ ] Docker support
 - [ ] Linux shell
